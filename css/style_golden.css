@@ -1,0 +1,13 @@
+/* Este archivo CSS se utilizará para aplicar variables de colores para la página del Golden Retriever */
+
+
+:root {
+
+    /* Colores */
+    --beige-color: #f9edaa;
+    --brown-color: #694c08;
+    --gold-color: #f6d774;
+    --light-brown-color: #97722c;
+    --dark-brown-color: #382a00 ;
+
+}
