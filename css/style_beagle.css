@@ -1,0 +1,14 @@
+/* Este archivo CSS se utilizará para aplicar variables de colores para la página del Beagle */
+
+
+:root {
+
+    /* Colores */
+    --white-color: #f5ecec;
+    --red-color:#9d603f;
+    --brown-color: #79513a;
+    --sand-color: #f3cdb4;
+    --dark-brown-color: #5a3a34;
+    
+
+}
